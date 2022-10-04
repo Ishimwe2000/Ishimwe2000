@@ -5,6 +5,7 @@
 - 🌱 I am learning to become a full stack developer
 - 🌱  Check back often for an update of my projects
 - 📫 How to reach me on my LinkedIn:www.linkedin.com/in/mariemichelle2000
+- View my portfolio here: https://ishimwe2000.github.io/portfolio/
  
 
 <!---
