@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React framework for front-end applications
 - 🌱  Check back often for an update of my projects
 - 📫 How to reach me on my LinkedIn:www.linkedin.com/in/mariemichelle2000
-- View my portfolio here: https://ishimwe2000.github.io/portfolio/
  
 
 <!---
